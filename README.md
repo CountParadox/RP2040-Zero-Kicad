@@ -1,3 +1,7 @@
+#DO NOT USE 
+Several people have reported that this footprint is wrong, it worked for me but I didn't use all pins?
+please double check things before you break things !
+
 # RP2040-Zero-Kicad
 Kicad 6 Footprint and Symbol for Waveshare RP2040-Zero 
 
